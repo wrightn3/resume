@@ -17,3 +17,10 @@ npm install -g jsonresume-theme-nominaltech
 ```
 resume export resume.html --theme nominaltech
 ```
+
+## Developing
+
+This was developed using [Atom](https://atom.io/). Packages used to make life
+easier are:
+
+- [atom-beautify](https://atom.io/packages/atom-beautify)
