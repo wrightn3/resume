@@ -1,5 +1,7 @@
 # Natalie Wright Resume
 
+See [https://wrightn3.github.io/resume/](https://wrightn3.github.io/resume/)
+
 ## Generating
 
 This site uses a variant of [JSON Resume](https://jsonresume.org/). To build the
